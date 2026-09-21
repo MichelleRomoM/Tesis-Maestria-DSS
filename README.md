@@ -1,5 +1,4 @@
-# Sistema de Soporte a la Decisión (DSS)
-
+# Sistema de Soporte a la Decisión (DSS) en Desarrollos Inmobiliarios
 **Objetivo:**
 Desarrollar un sistema de apoyo a la toma de decisiones en el sector inmobiliario para la toma de deci-
 siones, identificando clústeres de valor y optimizando los precios, mediante técnicas de ciencia de datos, con
